@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=[
         "streamlit",
-        "torch==1.5.0",
+        "torch>=1.5.0",
         "colorful==0.5.1",
         "pytest==5.4.1",
         "psutil==5.7.0",
